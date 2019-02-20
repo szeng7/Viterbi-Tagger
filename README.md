@@ -8,6 +8,8 @@ Viterbi_em is an implementation with the Expectation Maximization algorithm wher
 
 I have included a training file of words and their parts of speeches as well as a test file for testing the accuracy. 
 
+Example Usage:
+
 '''
 ./viterbi_tagger train test
 '''
