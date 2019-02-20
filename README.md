@@ -10,6 +10,6 @@ I have included a training file of words and their parts of speeches as well as 
 
 Example Usage:
 
-"""
+```
 ./viterbi_tagger train test
-"""
+```
